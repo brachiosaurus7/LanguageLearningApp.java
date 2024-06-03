@@ -3,4 +3,4 @@
  
 All 8 files need to be installed in the same folder, the classpath should have the jdbc driver for Oracle 21C, and the app should be launched with running the 'Main.java' file.
 
-The output is present in the file 'Output.pdf'
+The output can be viewed with the link: https://drive.google.com/file/d/1Cw9IS3J9ntzEOrpA8nZhQXvfK5HGVV8T/view?usp=sharing
